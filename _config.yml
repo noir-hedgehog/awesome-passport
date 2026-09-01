@@ -1,0 +1,10 @@
+title: Awesome FoloToy AI Passport
+description: FoloToy AI Passport 官方与社区开源项目导航
+theme: jekyll-theme-cayman
+lang: zh-CN
+show_downloads: false
+repository: noir-hedgehog/awesome-passport
+exclude:
+  - projects.json
+  - scripts
+  - README.md

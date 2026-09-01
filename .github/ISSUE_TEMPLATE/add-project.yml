@@ -1,0 +1,40 @@
+name: 添加项目
+description: 推荐一个与 FoloToy AI Passport 直接相关的公开仓库
+title: "添加项目："
+labels: [catalog]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub 仓库
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: textarea
+    id: relation
+    attributes:
+      label: 与 AI Passport 的关系
+      description: 请说明目标硬件、功能，以及 README 中能够确认适配关系的位置。
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 建议分类
+      options:
+        - 官方核心项目
+        - 开发工具与研究
+        - Agent、桌面与遥控集成
+        - 效率、信息与学习
+        - 游戏、宠物与多媒体
+        - 平台、合集与实验性派生
+        - FoloToy 官方生态（间接相关）
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 仓库为公开可访问状态，且不是仅名称相同的其他“AI Passport”项目。
+          required: true

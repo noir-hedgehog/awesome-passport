@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "title": "官方核心项目",
+      "description": "由 FoloToy 组织维护、直接面向 AI Passport 的基线、固件与 Agent 工具。",
+      "projects": [
+        {"repo": "FoloToy/ai-passport", "summary": "AI Passport 官方硬件与 ESP-IDF 开发基线。"},
+        {"repo": "FoloToy/folo-ai-passport-xiaozhi", "summary": "适配 AI Passport 的小智语音助手固件。"},
+        {"repo": "FoloToy/folo-ai-passport-skill", "summary": "面向 AI 工具与 MCP 工作流的官方 Skill。"}
+      ]
+    },
+    {
+      "title": "开发工具与研究",
+      "description": "模拟器、刷机工具、固件分析、开发 Agent 与硬件验证参考。",
+      "projects": [
+        {"repo": "KoLoRang/ai-passport-simulator", "summary": "带 LCD、按键和音频设备模型的 QEMU PC 模拟器。"},
+        {"repo": "ChenYiGeEr/ai-passport-simulator", "summary": "面向 FoloToy/ai-passport 的桌面模拟器。"},
+        {"repo": "caogenfunan123/passport-flasher", "summary": "通过 Android USB OTG 刷写 AI Passport 的工具。"},
+        {"repo": "ZGF0423/esp32-ai-passport-flasher", "summary": "使用 Python 自动化刷写 ESP32 AI Passport 固件。"},
+        {"repo": "neverleftWTF/folotoy-ai-passport-re", "summary": "AI Passport 逆向研究与分析工具集。"},
+        {"repo": "zlhdxb/ai-pass-port", "summary": "固件提取、NVS 修改与开发工具集。"},
+        {"repo": "iCurrer/ai-passport-agent", "summary": "引导式 AI Passport 固件开发 Agent 预设。"},
+        {"repo": "timzenxia/ai-passport-skill", "summary": "面向 Claude Code 的 AI Passport 固件开发 Skill。"},
+        {"repo": "mingdedi/passport-demo", "summary": "覆盖板载外设的硬件验证与开发参考固件。"}
+      ]
+    },
+    {
+      "title": "Agent、桌面与遥控集成",
+      "description": "把工牌作为 Agent 状态终端、语音入口、审批器、遥控器或跨端提醒设备。",
+      "projects": [
+        {"repo": "BOHUYESHAN-APB/boss-phone", "summary": "通过掌上终端远程指挥 Codex、Claude Code 等本地 Agent。"},
+        {"repo": "zhangsan2000w-art/ai-passport-codex-buddy", "summary": "Codex 状态提醒、双端审批与 BLE 本地桥。"},
+        {"repo": "bingkina/FoloToy-Codex-Buddy", "summary": "Codex 状态、像素宠物、声音提醒与实体按键审批。"},
+        {"repo": "zhaohuaxiaoy/folo-ai-passport-voice", "summary": "按住说话、桌面输入注入、Agent 工作流与物理审批。"},
+        {"repo": "ihonghong/ai-passport-macos-voice-remote", "summary": "macOS BLE HID 语音输入遥控器与状态界面。"},
+        {"repo": "SHLcy/ai-passport-feishu", "summary": "面向飞书消息与语音识别的 AI Passport 固件。"},
+        {"repo": "yigeiwo/meeting-smart-minutes", "summary": "结合飞书、多模型与 AI Passport 的会议纪要系统。"},
+        {"repo": "YeatsLiao/ai-passport-ppt", "summary": "兼容主流演示软件的 BLE 翻页笔。"},
+        {"repo": "YeatsLiao/ai-passport-tiktok-remote", "summary": "模拟触摸手势的短视频 BLE 遥控器。"},
+        {"repo": "BigQ749/trae-k2-remote", "summary": "闪电说语音输入与 PPT 控制 BLE 遥控器。"},
+        {"repo": "HwzLoveDz/folo-ai-passport-gesture-wand", "summary": "把 AI Passport 变成可编程手势控制器。"},
+        {"repo": "KevinGong2013/esp32-ble-mac-lock", "summary": "基于 AI Passport 的一键 Mac 锁定与解锁器。"},
+        {"repo": "Yijun-Linda/beminder", "summary": "NFC、iPhone 计时、BLE 与实体报警的共享单车提醒系统。"},
+        {"repo": "travelerhugo-hu/fmo-mate-for-folotoy-ai-passport", "summary": "面向 AI Passport 的 FMO Mate 应用。"},
+        {"repo": "SHLcy/ai-passport-stariver", "summary": "Stariver 桌面伴侣固件。"},
+        {"repo": "Ritten1/FoloToyAIPassport", "summary": "把环境声音转化为可收集、培养的像素精灵。"}
+      ]
+    },
+    {
+      "title": "效率、信息与学习",
+      "description": "天气、日历、专注、学习、生活信息和离线工具类固件。",
+      "projects": [
+        {"repo": "Vitaly2026/sloth-weather", "summary": "随天气变化心情的树懒天气站与手机相册。"},
+        {"repo": "yangyue1974/Niu-Weather", "summary": "带像素小牛的常亮天气仪表盘。"},
+        {"repo": "fanquanpp/FoloToy-calendar", "summary": "月历、倒计时、纪念日、配网和低功耗日历。"},
+        {"repo": "yueqiu281/TRAE_Stockscreen", "summary": "A 股行情、交易时段刷新、时间校准与电量显示。"},
+        {"repo": "aris659/ai-passport-GO-WORK", "summary": "像素心、CRT 动效与 SoftAP 配网的番茄钟。"},
+        {"repo": "dafeng/ai-passport-timer", "summary": "带提示音和闪屏提醒的离线倒计时器。"},
+        {"repo": "dafeng/ai-passport-breath", "summary": "带呼吸动画、背光与柔和提示音的呼吸教练。"},
+        {"repo": "milkbaek022/baa-os", "summary": "像素羊专注、补水与休息提醒伴侣。"},
+        {"repo": "ricroad/folotoy-pipboy-living-clock", "summary": "Pip-Boy 风格动态时钟与任务计时器。"},
+        {"repo": "elaemc0209/folotoy-ai-passport", "summary": "课程表、GPA 助手与硬件测试页面。"},
+        {"repo": "arraylee/ai-passport-answer-book", "summary": "离线答案之书固件。"},
+        {"repo": "arraylee/ai-passport-word-bear", "summary": "离线单词学习与单词熊固件。"},
+        {"repo": "joeseesun/vocab-passport", "summary": "带发音的离线词根闪卡。"},
+        {"repo": "fancylk/lele-ai-passport", "summary": "面向亲子自驾的小学生随身 AI 导游。"},
+        {"repo": "csn6666/tianji-passport", "summary": "端侧排盘与联网解读的掌心命理机。"},
+        {"repo": "hyt24/ai-passport-xiaoliuren", "summary": "小六壬离线硬件应用。"},
+        {"repo": "PhoenixZHC/folotoy_morse_trainer_blank", "summary": "离线摩尔斯码输入与训练固件。"},
+        {"repo": "BoajanQ/Today-s-mood_Folotoy_AIPassport", "summary": "选择并展示今日心情的简单应用。"},
+        {"repo": "Ecparterhacs/palette-passport-ai-passport", "summary": "随身色彩记录与调色板伴侣。"}
+      ]
+    },
+    {
+      "title": "游戏、宠物与多媒体",
+      "description": "离线游戏、虚拟宠物、音乐、图片、视频与互动体验。",
+      "projects": [
+        {"repo": "Bagel-EW/ai-passport-games", "summary": "包含派对与单人复古游戏的口袋街机。"},
+        {"repo": "YeatsLiao/ai-passport-doom", "summary": "运行在 AI Passport 上的 Doom 移植实验。"},
+        {"repo": "XFHurrican/TraeDino", "summary": "Chrome 断网小恐龙复刻游戏。"},
+        {"repo": "HwzLoveDz/folo-ai-passport-werewolf", "summary": "支持七台设备联机的离线狼人杀。"},
+        {"repo": "JollySun/folo-ai-passport-niulai", "summary": "牛来互动播放器、动画、录音替换与电量显示。"},
+        {"repo": "Regan-Lu/niulai-ai-passport-firmware", "summary": "《牛来快跑》可刷写固件与使用说明。"},
+        {"repo": "PhoenixZHC/folotoy_donkeykong", "summary": "原创像素攀爬游戏 Pixel Climber。"},
+        {"repo": "PhoenixZHC/folotoy-badappleplayer", "summary": "Bad Apple!! 全屏视频与音频播放器。"},
+        {"repo": "PhoenixZHC/FoloToy-wyy-musicplayer", "summary": "网易云音乐歌单、播放控制与局域网中转。"},
+        {"repo": "PhoenixZHC/FoloToy-EVA-musicplayer", "summary": "离线 EVA 风格音乐播放器。"},
+        {"repo": "PhoenixZHC/folotoy_gallery", "summary": "手机上传照片、GIF 与音乐的离线电子相册。"},
+        {"repo": "PhoenixZHC/folotoy_shuangseqiu", "summary": "纯离线双色球随机选号娱乐应用。"},
+        {"repo": "linn0x/ai-passprot-aemeath", "summary": "Aemeath 离线虚拟宠物。"},
+        {"repo": "Ecparterhacs/talking-pet-ai-passport", "summary": "倾听并用俏皮声音复述的语音宠物。"},
+        {"repo": "account-w/Voice-Flight", "summary": "使用麦克风控制升降的障碍飞行游戏。"},
+        {"repo": "arraylee/ai-passport-haunted-step", "summary": "三键回合制幽灵屋小游戏。"},
+        {"repo": "azzotest/ai-passport-treasure-hunt", "summary": "基于 BLE 的亲子寻宝游戏。"},
+        {"repo": "punkcatl/ai_passport_pokedex", "summary": "15 只宝可梦的离线动画图鉴。"},
+        {"repo": "nistudyc/trae-passport-muyu", "summary": "离线敲木鱼功德计数器。"},
+        {"repo": "aaronluyang/music-baby", "summary": "三按键互动音乐玩具。"},
+        {"repo": "chenjie1129/MayDayFansInTraePassport", "summary": "面向五月天歌迷的卜卜养成与附近同好体验。"},
+        {"repo": "zichenli428-tech/xiaozhi-esp32", "summary": "面向 AI Passport 板型的小智语音助手移植。"}
+      ]
+    },
+    {
+      "title": "平台、合集与实验性派生",
+      "description": "多应用合集、上游基线复制、差异尚未充分说明或仍在早期阶段的仓库。",
+      "projects": [
+        {"repo": "lululu59/FoloOS-AI-Passport-community", "summary": "中文菜单、编程伴侣、番茄钟、单词熊与 Mac 桥接合集。"},
+        {"repo": "shzh17365503/Wolf-s-AI-Passport", "summary": "包含多款游戏的 All-in-One 固件。"},
+        {"repo": "zerob13/ai-passport", "summary": "AI Passport 派生仓库；README 暂未说明与上游差异。"},
+        {"repo": "mwm1238888/ai-passport", "summary": "AI Passport 派生仓库；README 暂未说明与上游差异。"},
+        {"repo": "pax-zhang/ai-passport", "summary": "AI Passport 基线派生仓库。"},
+        {"repo": "rvaim/ai-passport", "summary": "TRAE AI 通行证实验仓库。"},
+        {"repo": "15062106537/ai-passport", "summary": "AI Passport 派生仓库；README 暂未说明与上游差异。"},
+        {"repo": "Sher-AI-Studio/SPIDEY-AI-Passport", "summary": "SPIDEY AI Passport 实验固件。"},
+        {"repo": "killhello/ai-pass-port-book", "summary": "Book 方向的 AI Passport 派生实验。"},
+        {"repo": "killhello/AI-pass-port-wifi", "summary": "蓝牙配网方向的 AI Passport 派生实验。"},
+        {"repo": "killhello/ai-pass-port-dogtag", "summary": "Dogtag 方向的 AI Passport 派生实验。"}
+      ]
+    },
+    {
+      "title": "FoloToy 官方生态（间接相关）",
+      "description": "并非 AI Passport 专用，但可能提供文档、固件、服务或 Agent 集成能力。",
+      "projects": [
+        {"repo": "FoloToy/folotoy-doc", "summary": "FoloToy 全产品文档。"},
+        {"repo": "FoloToy/folotoy-bin", "summary": "FoloToy 产品固件与 Releases。"},
+        {"repo": "FoloToy/folotoy-server-self-hosting", "summary": "FoloToy 社区服务自托管配置。"},
+        {"repo": "FoloToy/folotoy-toy-role-config-skill", "summary": "安全配置角色、人设、开场白与声音的 Agent Skill。"},
+        {"repo": "FoloToy/folotoy-openclaw-plugin", "summary": "FoloToy 的 OpenClaw 通道插件。"},
+        {"repo": "FoloToy/folotoy-hermes-agent-plugin", "summary": "为 FoloToy 接入 Hermes Agent 能力。"}
+      ]
+    }
+  ]
+}

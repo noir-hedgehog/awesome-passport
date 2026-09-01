@@ -1,0 +1,43 @@
+name: Refresh catalog metadata
+
+on:
+  schedule:
+    - cron: "23 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-catalog
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Refresh GitHub metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_catalog.py
+
+      - name: Commit changed metadata
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Catalog metadata is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh catalog metadata"
+          git push
