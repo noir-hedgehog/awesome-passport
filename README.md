@@ -15,7 +15,7 @@
 - 带有“间接相关”标记的资源服务于更广泛的 FoloToy 生态，并非 AI Passport 专用。
 
 <!-- CATALOG:START -->
-**收录 86 个仓库 · 元数据更新于 2026-09-01**
+**收录 86 个仓库 · 元数据更新于 2026-09-07**
 
 ## 官方核心项目
 
@@ -23,9 +23,9 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 171 | MIT | 2026-08-31 |
-| [FoloToy/folo-ai-passport-xiaozhi](https://github.com/FoloToy/folo-ai-passport-xiaozhi) | 适配 AI Passport 的小智语音助手固件。 | 3 | MIT | 2026-08-23 |
-| [FoloToy/folo-ai-passport-skill](https://github.com/FoloToy/folo-ai-passport-skill) | 面向 AI 工具与 MCP 工作流的官方 Skill。 | 1 | 未声明 | 2026-08-12 |
+| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 253 | MIT | 2026-09-06 |
+| [FoloToy/folo-ai-passport-xiaozhi](https://github.com/FoloToy/folo-ai-passport-xiaozhi) | 适配 AI Passport 的小智语音助手固件。 | 7 | MIT | 2026-08-23 |
+| [FoloToy/folo-ai-passport-skill](https://github.com/FoloToy/folo-ai-passport-skill) | 面向 AI 工具与 MCP 工作流的官方 Skill。 | 2 | 未声明 | 2026-08-12 |
 
 ## 开发工具与研究
 
@@ -33,8 +33,8 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [KoLoRang/ai-passport-simulator](https://github.com/KoLoRang/ai-passport-simulator) | 带 LCD、按键和音频设备模型的 QEMU PC 模拟器。 | 2 | MIT | 2026-08-28 |
-| [ChenYiGeEr/ai-passport-simulator](https://github.com/ChenYiGeEr/ai-passport-simulator) | 面向 FoloToy/ai-passport 的桌面模拟器。 | 0 | Apache-2.0 | 2026-08-27 |
+| [KoLoRang/ai-passport-simulator](https://github.com/KoLoRang/ai-passport-simulator) | 带 LCD、按键和音频设备模型的 QEMU PC 模拟器。 | — | — | ⚠️ 暂不可用 |
+| [ChenYiGeEr/ai-passport-simulator](https://github.com/ChenYiGeEr/ai-passport-simulator) | 面向 FoloToy/ai-passport 的桌面模拟器。 | 0 | Apache-2.0 | 2026-09-03 |
 | [caogenfunan123/passport-flasher](https://github.com/caogenfunan123/passport-flasher) | 通过 Android USB OTG 刷写 AI Passport 的工具。 | 0 | 未声明 | 2026-08-26 |
 | [ZGF0423/esp32-ai-passport-flasher](https://github.com/ZGF0423/esp32-ai-passport-flasher) | 使用 Python 自动化刷写 ESP32 AI Passport 固件。 | 0 | 未声明 | 2026-08-27 |
 | [neverleftWTF/folotoy-ai-passport-re](https://github.com/neverleftWTF/folotoy-ai-passport-re) | AI Passport 逆向研究与分析工具集。 | 0 | MIT | 2026-08-23 |
@@ -50,12 +50,12 @@
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
 | [BOHUYESHAN-APB/boss-phone](https://github.com/BOHUYESHAN-APB/boss-phone) | 通过掌上终端远程指挥 Codex、Claude Code 等本地 Agent。 | 0 | MIT | 2026-08-31 |
-| [zhangsan2000w-art/ai-passport-codex-buddy](https://github.com/zhangsan2000w-art/ai-passport-codex-buddy) | Codex 状态提醒、双端审批与 BLE 本地桥。 | 0 | 未声明 | 2026-09-01 |
-| [bingkina/FoloToy-Codex-Buddy](https://github.com/bingkina/FoloToy-Codex-Buddy) | Codex 状态、像素宠物、声音提醒与实体按键审批。 | 2 | MIT | 2026-08-23 |
-| [zhaohuaxiaoy/folo-ai-passport-voice](https://github.com/zhaohuaxiaoy/folo-ai-passport-voice) | 按住说话、桌面输入注入、Agent 工作流与物理审批。 | 4 | MIT | 2026-08-29 |
+| [zhangsan2000w-art/ai-passport-codex-buddy](https://github.com/zhangsan2000w-art/ai-passport-codex-buddy) | Codex 状态提醒、双端审批与 BLE 本地桥。 | 1 | MIT | 2026-09-04 |
+| [bingkina/FoloToy-Codex-Buddy](https://github.com/bingkina/FoloToy-Codex-Buddy) | Codex 状态、像素宠物、声音提醒与实体按键审批。 | 3 | MIT | 2026-08-23 |
+| [zhaohuaxiaoy/folo-ai-passport-voice](https://github.com/zhaohuaxiaoy/folo-ai-passport-voice) | 按住说话、桌面输入注入、Agent 工作流与物理审批。 | 7 | MIT | 2026-08-29 |
 | [ihonghong/ai-passport-macos-voice-remote](https://github.com/ihonghong/ai-passport-macos-voice-remote) | macOS BLE HID 语音输入遥控器与状态界面。 | 0 | MIT | 2026-08-31 |
 | [SHLcy/ai-passport-feishu](https://github.com/SHLcy/ai-passport-feishu) | 面向飞书消息与语音识别的 AI Passport 固件。 | 0 | MIT | 2026-08-27 |
-| [yigeiwo/meeting-smart-minutes](https://github.com/yigeiwo/meeting-smart-minutes) | 结合飞书、多模型与 AI Passport 的会议纪要系统。 | 0 | MIT | 2026-08-30 |
+| [yigeiwo/meeting-smart-minutes](https://github.com/yigeiwo/meeting-smart-minutes) | 结合飞书、多模型与 AI Passport 的会议纪要系统。 | 0 | MIT | 2026-09-01 |
 | [YeatsLiao/ai-passport-ppt](https://github.com/YeatsLiao/ai-passport-ppt) | 兼容主流演示软件的 BLE 翻页笔。 | 0 | 未声明 | 2026-08-31 |
 | [YeatsLiao/ai-passport-tiktok-remote](https://github.com/YeatsLiao/ai-passport-tiktok-remote) | 模拟触摸手势的短视频 BLE 遥控器。 | 0 | 未声明 | 2026-08-31 |
 | [BigQ749/trae-k2-remote](https://github.com/BigQ749/trae-k2-remote) | 闪电说语音输入与 PPT 控制 BLE 遥控器。 | 1 | MIT | 2026-08-22 |
@@ -84,9 +84,9 @@
 | [elaemc0209/folotoy-ai-passport](https://github.com/elaemc0209/folotoy-ai-passport) | 课程表、GPA 助手与硬件测试页面。 | 0 | MIT | 2026-08-28 |
 | [arraylee/ai-passport-answer-book](https://github.com/arraylee/ai-passport-answer-book) | 离线答案之书固件。 | 0 | 未声明 | 2026-08-31 |
 | [arraylee/ai-passport-word-bear](https://github.com/arraylee/ai-passport-word-bear) | 离线单词学习与单词熊固件。 | 0 | 未声明 | 2026-08-31 |
-| [joeseesun/vocab-passport](https://github.com/joeseesun/vocab-passport) | 带发音的离线词根闪卡。 | 9 | MIT | 2026-08-22 |
+| [joeseesun/vocab-passport](https://github.com/joeseesun/vocab-passport) | 带发音的离线词根闪卡。 | 10 | MIT | 2026-08-22 |
 | [fancylk/lele-ai-passport](https://github.com/fancylk/lele-ai-passport) | 面向亲子自驾的小学生随身 AI 导游。 | 0 | 未声明 | 2026-08-29 |
-| [csn6666/tianji-passport](https://github.com/csn6666/tianji-passport) | 端侧排盘与联网解读的掌心命理机。 | 0 | NOASSERTION | 2026-08-29 |
+| [csn6666/tianji-passport](https://github.com/csn6666/tianji-passport) | 端侧排盘与联网解读的掌心命理机。 | 1 | NOASSERTION | 2026-08-29 |
 | [hyt24/ai-passport-xiaoliuren](https://github.com/hyt24/ai-passport-xiaoliuren) | 小六壬离线硬件应用。 | 1 | MIT | 2026-08-25 |
 | [PhoenixZHC/folotoy_morse_trainer_blank](https://github.com/PhoenixZHC/folotoy_morse_trainer_blank) | 离线摩尔斯码输入与训练固件。 | 0 | 未声明 | 2026-08-29 |
 | [BoajanQ/Today-s-mood_Folotoy_AIPassport](https://github.com/BoajanQ/Today-s-mood_Folotoy_AIPassport) | 选择并展示今日心情的简单应用。 | 1 | 未声明 | 2026-08-24 |
@@ -101,7 +101,7 @@
 | [Bagel-EW/ai-passport-games](https://github.com/Bagel-EW/ai-passport-games) | 包含派对与单人复古游戏的口袋街机。 | 0 | MIT | 2026-08-29 |
 | [YeatsLiao/ai-passport-doom](https://github.com/YeatsLiao/ai-passport-doom) | 运行在 AI Passport 上的 Doom 移植实验。 | 2 | 未声明 | 2026-08-31 |
 | [XFHurrican/TraeDino](https://github.com/XFHurrican/TraeDino) | Chrome 断网小恐龙复刻游戏。 | 0 | MIT | 2026-08-30 |
-| [HwzLoveDz/folo-ai-passport-werewolf](https://github.com/HwzLoveDz/folo-ai-passport-werewolf) | 支持七台设备联机的离线狼人杀。 | 1 | 未声明 | 2026-08-29 |
+| [HwzLoveDz/folo-ai-passport-werewolf](https://github.com/HwzLoveDz/folo-ai-passport-werewolf) | 支持七台设备联机的离线狼人杀。 | 2 | 未声明 | 2026-09-06 |
 | [JollySun/folo-ai-passport-niulai](https://github.com/JollySun/folo-ai-passport-niulai) | 牛来互动播放器、动画、录音替换与电量显示。 | 8 | MIT | 2026-08-27 |
 | [Regan-Lu/niulai-ai-passport-firmware](https://github.com/Regan-Lu/niulai-ai-passport-firmware) | 《牛来快跑》可刷写固件与使用说明。 | 2 | 未声明 | 2026-08-26 |
 | [PhoenixZHC/folotoy_donkeykong](https://github.com/PhoenixZHC/folotoy_donkeykong) | 原创像素攀爬游戏 Pixel Climber。 | 0 | MIT | 2026-08-29 |
@@ -118,7 +118,7 @@
 | [punkcatl/ai_passport_pokedex](https://github.com/punkcatl/ai_passport_pokedex) | 15 只宝可梦的离线动画图鉴。 | 0 | MIT | 2026-08-23 |
 | [nistudyc/trae-passport-muyu](https://github.com/nistudyc/trae-passport-muyu) | 离线敲木鱼功德计数器。 | 0 | MIT | 2026-08-23 |
 | [aaronluyang/music-baby](https://github.com/aaronluyang/music-baby) | 三按键互动音乐玩具。 | 0 | MIT | 2026-08-26 |
-| [chenjie1129/MayDayFansInTraePassport](https://github.com/chenjie1129/MayDayFansInTraePassport) | 面向五月天歌迷的卜卜养成与附近同好体验。 | 1 | MIT | 2026-09-01 |
+| [chenjie1129/MayDayFansInTraePassport](https://github.com/chenjie1129/MayDayFansInTraePassport) | 面向五月天歌迷的卜卜养成与附近同好体验。 | 1 | MIT | 2026-09-04 |
 | [zichenli428-tech/xiaozhi-esp32](https://github.com/zichenli428-tech/xiaozhi-esp32) | 面向 AI Passport 板型的小智语音助手移植。 | 0 | MIT | 2026-08-29 |
 
 ## 平台、合集与实验性派生
@@ -128,16 +128,16 @@
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
 | [lululu59/FoloOS-AI-Passport-community](https://github.com/lululu59/FoloOS-AI-Passport-community) | 中文菜单、编程伴侣、番茄钟、单词熊与 Mac 桥接合集。 | 0 | 未声明 | 2026-08-30 |
-| [shzh17365503/Wolf-s-AI-Passport](https://github.com/shzh17365503/Wolf-s-AI-Passport) | 包含多款游戏的 All-in-One 固件。 | 2 | 未声明 | 2026-08-28 |
-| [zerob13/ai-passport](https://github.com/zerob13/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 0 | MIT | 2026-09-01 |
-| [mwm1238888/ai-passport](https://github.com/mwm1238888/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 0 | MIT | 2026-08-31 |
-| [pax-zhang/ai-passport](https://github.com/pax-zhang/ai-passport) | AI Passport 基线派生仓库。 | 3 | MIT | 2026-08-30 |
+| [shzh17365503/Wolf-s-AI-Passport](https://github.com/shzh17365503/Wolf-s-AI-Passport) | 包含多款游戏的 All-in-One 固件。 | 2 | 未声明 | 2026-09-07 |
+| [zerob13/ai-passport](https://github.com/zerob13/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 3 | MIT | 2026-09-02 |
+| [mwm1238888/ai-passport](https://github.com/mwm1238888/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 0 | MIT | 2026-09-02 |
+| [pax-zhang/ai-passport](https://github.com/pax-zhang/ai-passport) | AI Passport 基线派生仓库。 | 3 | MIT | 2026-09-07 |
 | [rvaim/ai-passport](https://github.com/rvaim/ai-passport) | TRAE AI 通行证实验仓库。 | 1 | MIT | 2026-08-28 |
-| [15062106537/ai-passport](https://github.com/15062106537/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 0 | MIT | 2026-08-28 |
+| [xiaoluo-geoai/ai-passport](https://github.com/xiaoluo-geoai/ai-passport) | AI Passport 派生仓库；README 暂未说明与上游差异。 | 1 | MIT | 2026-09-06 |
 | [Sher-AI-Studio/SPIDEY-AI-Passport](https://github.com/Sher-AI-Studio/SPIDEY-AI-Passport) | SPIDEY AI Passport 实验固件。 | 1 | MIT | 2026-08-24 |
 | [killhello/ai-pass-port-book](https://github.com/killhello/ai-pass-port-book) | Book 方向的 AI Passport 派生实验。 | 3 | NOASSERTION | 2026-08-28 |
 | [killhello/AI-pass-port-wifi](https://github.com/killhello/AI-pass-port-wifi) | 蓝牙配网方向的 AI Passport 派生实验。 | 0 | NOASSERTION | 2026-08-27 |
-| [killhello/ai-pass-port-dogtag](https://github.com/killhello/ai-pass-port-dogtag) | Dogtag 方向的 AI Passport 派生实验。 | 0 | MIT | 2026-09-01 |
+| [killhello/ai-pass-port-dogtag](https://github.com/killhello/ai-pass-port-dogtag) | Dogtag 方向的 AI Passport 派生实验。 | 0 | MIT | 2026-09-02 |
 
 ## FoloToy 官方生态（间接相关）
 
@@ -146,9 +146,9 @@
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
 | [FoloToy/folotoy-doc](https://github.com/FoloToy/folotoy-doc) | FoloToy 全产品文档。 | 178 | 未声明 | 2026-04-20 |
-| [FoloToy/folotoy-bin](https://github.com/FoloToy/folotoy-bin) | FoloToy 产品固件与 Releases。 | 30 | 未声明 | 2025-08-13 |
+| [FoloToy/folotoy-bin](https://github.com/FoloToy/folotoy-bin) | FoloToy 产品固件与 Releases。 | 32 | 未声明 | 2025-08-13 |
 | [FoloToy/folotoy-server-self-hosting](https://github.com/FoloToy/folotoy-server-self-hosting) | FoloToy 社区服务自托管配置。 | 600 | GPL-3.0 | 2026-02-01 |
-| [FoloToy/folotoy-toy-role-config-skill](https://github.com/FoloToy/folotoy-toy-role-config-skill) | 安全配置角色、人设、开场白与声音的 Agent Skill。 | 1 | MIT | 2026-08-14 |
+| [FoloToy/folotoy-toy-role-config-skill](https://github.com/FoloToy/folotoy-toy-role-config-skill) | 安全配置角色、人设、开场白与声音的 Agent Skill。 | 2 | MIT | 2026-08-14 |
 | [FoloToy/folotoy-openclaw-plugin](https://github.com/FoloToy/folotoy-openclaw-plugin) | FoloToy 的 OpenClaw 通道插件。 | 9 | 未声明 | 2026-04-28 |
 | [FoloToy/folotoy-hermes-agent-plugin](https://github.com/FoloToy/folotoy-hermes-agent-plugin) | 为 FoloToy 接入 Hermes Agent 能力。 | 0 | 未声明 | 2026-04-16 |
 
