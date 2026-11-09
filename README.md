@@ -15,7 +15,7 @@
 - 带有“间接相关”标记的资源服务于更广泛的 FoloToy 生态，并非 AI Passport 专用。
 
 <!-- CATALOG:START -->
-**收录 86 个仓库 · 元数据更新于 2026-11-02**
+**收录 86 个仓库 · 元数据更新于 2026-11-09**
 
 ## 官方核心项目
 
@@ -23,8 +23,8 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 797 | MIT | 2026-11-02 |
-| [FoloToy/folo-ai-passport-xiaozhi](https://github.com/FoloToy/folo-ai-passport-xiaozhi) | 适配 AI Passport 的小智语音助手固件。 | 33 | MIT | 2026-10-28 |
+| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 858 | MIT | 2026-11-02 |
+| [FoloToy/folo-ai-passport-xiaozhi](https://github.com/FoloToy/folo-ai-passport-xiaozhi) | 适配 AI Passport 的小智语音助手固件。 | 35 | MIT | 2026-10-28 |
 | [FoloToy/folo-ai-passport-skill](https://github.com/FoloToy/folo-ai-passport-skill) | 面向 AI 工具与 MCP 工作流的官方 Skill。 | 3 | 未声明 | 2026-08-12 |
 
 ## 开发工具与研究
@@ -49,10 +49,10 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [BOHUYESHAN-APB/boss-phone](https://github.com/BOHUYESHAN-APB/boss-phone) | 通过掌上终端远程指挥 Codex、Claude Code 等本地 Agent。 | 0 | MIT | 2026-08-31 |
+| [BOHUYESHAN-APB/boss-phone](https://github.com/BOHUYESHAN-APB/boss-phone) | 通过掌上终端远程指挥 Codex、Claude Code 等本地 Agent。 | 0 | MIT | 2026-11-09 |
 | [zhangsan2000w-art/ai-passport-codex-buddy](https://github.com/zhangsan2000w-art/ai-passport-codex-buddy) | Codex 状态提醒、双端审批与 BLE 本地桥。 | 3 | MIT | 2026-09-11 |
 | [bingkina/FoloToy-Codex-Buddy](https://github.com/bingkina/FoloToy-Codex-Buddy) | Codex 状态、像素宠物、声音提醒与实体按键审批。 | 3 | MIT | 2026-08-23 |
-| [zhaohuaxiaoy/folo-ai-passport-voice](https://github.com/zhaohuaxiaoy/folo-ai-passport-voice) | 按住说话、桌面输入注入、Agent 工作流与物理审批。 | 13 | MIT | 2026-08-29 |
+| [zhaohuaxiaoy/folo-ai-passport-voice](https://github.com/zhaohuaxiaoy/folo-ai-passport-voice) | 按住说话、桌面输入注入、Agent 工作流与物理审批。 | 14 | MIT | 2026-08-29 |
 | [ihonghong/ai-passport-macos-voice-remote](https://github.com/ihonghong/ai-passport-macos-voice-remote) | macOS BLE HID 语音输入遥控器与状态界面。 | 0 | MIT | 2026-08-31 |
 | [FoloToy/ai-passport-feishu](https://github.com/FoloToy/ai-passport-feishu) | 面向飞书消息与语音识别的 AI Passport 固件。 | 1 | MIT | 2026-10-15 |
 | [yigeiwo/meeting-smart-minutes](https://github.com/yigeiwo/meeting-smart-minutes) | 结合飞书、多模型与 AI Passport 的会议纪要系统。 | 1 | MIT | 2026-09-16 |
@@ -88,7 +88,7 @@
 | [fancylk/lele-ai-passport](https://github.com/fancylk/lele-ai-passport) | 面向亲子自驾的小学生随身 AI 导游。 | 0 | 未声明 | 2026-10-25 |
 | [csn6666/tianji-passport](https://github.com/csn6666/tianji-passport) | 端侧排盘与联网解读的掌心命理机。 | 1 | NOASSERTION | 2026-08-29 |
 | [hyt24/ai-passport-xiaoliuren](https://github.com/hyt24/ai-passport-xiaoliuren) | 小六壬离线硬件应用。 | 3 | MIT | 2026-09-25 |
-| [PhoenixZHC/folotoy_morse_trainer_blank](https://github.com/PhoenixZHC/folotoy_morse_trainer_blank) | 离线摩尔斯码输入与训练固件。 | 0 | 未声明 | 2026-08-29 |
+| [PhoenixZHC/folotoy_morse_trainer_blank](https://github.com/PhoenixZHC/folotoy_morse_trainer_blank) | 离线摩尔斯码输入与训练固件。 | 0 | 未声明 | 2026-11-04 |
 | [BoajanQ/Today-s-mood_Folotoy_AIPassport](https://github.com/BoajanQ/Today-s-mood_Folotoy_AIPassport) | 选择并展示今日心情的简单应用。 | 1 | 未声明 | 2026-08-24 |
 | [Ecparterhacs/palette-passport-ai-passport](https://github.com/Ecparterhacs/palette-passport-ai-passport) | 随身色彩记录与调色板伴侣。 | 0 | MIT | 2026-08-28 |
 
@@ -106,8 +106,8 @@
 | [Regan-Lu/niulai-ai-passport-firmware](https://github.com/Regan-Lu/niulai-ai-passport-firmware) | 《牛来快跑》可刷写固件与使用说明。 | 2 | 未声明 | 2026-08-26 |
 | [PhoenixZHC/folotoy_donkeykong](https://github.com/PhoenixZHC/folotoy_donkeykong) | 原创像素攀爬游戏 Pixel Climber。 | 0 | MIT | 2026-08-29 |
 | [PhoenixZHC/folotoy-badappleplayer](https://github.com/PhoenixZHC/folotoy-badappleplayer) | Bad Apple!! 全屏视频与音频播放器。 | 0 | MIT | 2026-08-23 |
-| [PhoenixZHC/FoloToy-wyy-musicplayer](https://github.com/PhoenixZHC/FoloToy-wyy-musicplayer) | 网易云音乐歌单、播放控制与局域网中转。 | 3 | 未声明 | 2026-10-31 |
-| [PhoenixZHC/FoloToy-EVA-musicplayer](https://github.com/PhoenixZHC/FoloToy-EVA-musicplayer) | 离线 EVA 风格音乐播放器。 | 4 | MIT | 2026-10-31 |
+| [PhoenixZHC/FoloToy-wyy-musicplayer](https://github.com/PhoenixZHC/FoloToy-wyy-musicplayer) | 网易云音乐歌单、播放控制与局域网中转。 | 3 | 未声明 | 2026-11-03 |
+| [PhoenixZHC/FoloToy-EVA-musicplayer](https://github.com/PhoenixZHC/FoloToy-EVA-musicplayer) | 离线 EVA 风格音乐播放器。 | 4 | MIT | 2026-11-03 |
 | [PhoenixZHC/folotoy_gallery](https://github.com/PhoenixZHC/folotoy_gallery) | 手机上传照片、GIF 与音乐的离线电子相册。 | 1 | 未声明 | 2026-08-26 |
 | [PhoenixZHC/folotoy_shuangseqiu](https://github.com/PhoenixZHC/folotoy_shuangseqiu) | 纯离线双色球随机选号娱乐应用。 | 0 | MIT | 2026-08-26 |
 | [linn0x/ai-passprot-aemeath](https://github.com/linn0x/ai-passprot-aemeath) | Aemeath 离线虚拟宠物。 | 0 | MIT | 2026-08-31 |
@@ -145,7 +145,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [FoloToy/folotoy-doc](https://github.com/FoloToy/folotoy-doc) | FoloToy 全产品文档。 | 181 | 未声明 | 2026-04-20 |
+| [FoloToy/folotoy-doc](https://github.com/FoloToy/folotoy-doc) | FoloToy 全产品文档。 | 182 | 未声明 | 2026-04-20 |
 | [FoloToy/folotoy-bin](https://github.com/FoloToy/folotoy-bin) | FoloToy 产品固件与 Releases。 | 32 | 未声明 | 2025-08-13 |
 | [FoloToy/folotoy-server-self-hosting](https://github.com/FoloToy/folotoy-server-self-hosting) | FoloToy 社区服务自托管配置。 | 611 | GPL-3.0 | 2026-09-19 |
 | [FoloToy/folotoy-toy-role-config-skill](https://github.com/FoloToy/folotoy-toy-role-config-skill) | 安全配置角色、人设、开场白与声音的 Agent Skill。 | 2 | MIT | 2026-08-14 |
