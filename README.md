@@ -15,7 +15,7 @@
 - 带有“间接相关”标记的资源服务于更广泛的 FoloToy 生态，并非 AI Passport 专用。
 
 <!-- CATALOG:START -->
-**收录 86 个仓库 · 元数据更新于 2026-11-16**
+**收录 86 个仓库 · 元数据更新于 2026-11-23**
 
 ## 官方核心项目
 
@@ -23,7 +23,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 906 | MIT | 2026-11-14 |
+| [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport) | AI Passport 官方硬件与 ESP-IDF 开发基线。 | 962 | MIT | 2026-11-22 |
 | [FoloToy/folo-ai-passport-xiaozhi](https://github.com/FoloToy/folo-ai-passport-xiaozhi) | 适配 AI Passport 的小智语音助手固件。 | 35 | MIT | 2026-10-28 |
 | [FoloToy/folo-ai-passport-skill](https://github.com/FoloToy/folo-ai-passport-skill) | 面向 AI 工具与 MCP 工作流的官方 Skill。 | 3 | 未声明 | 2026-08-12 |
 
@@ -35,7 +35,7 @@
 | --- | --- | ---: | --- | --- |
 | [KoLoRang/ai-passport-simulator](https://github.com/KoLoRang/ai-passport-simulator) | 带 LCD、按键和音频设备模型的 QEMU PC 模拟器。 | — | — | ⚠️ 暂不可用 |
 | [ChenYiGeEr/ai-passport-simulator](https://github.com/ChenYiGeEr/ai-passport-simulator) | 面向 FoloToy/ai-passport 的桌面模拟器。 | — | — | ⚠️ 暂不可用 |
-| [caogenfunan123/passport-flasher](https://github.com/caogenfunan123/passport-flasher) | 通过 Android USB OTG 刷写 AI Passport 的工具。 | — | — | ⚠️ 暂不可用 |
+| [caogenfunan123/passport-flasher](https://github.com/caogenfunan123/passport-flasher) | 通过 Android USB OTG 刷写 AI Passport 的工具。 | 0 | 未声明 | 2026-08-26 |
 | [ZGF0423/esp32-ai-passport-flasher](https://github.com/ZGF0423/esp32-ai-passport-flasher) | 使用 Python 自动化刷写 ESP32 AI Passport 固件。 | 0 | 未声明 | 2026-08-27 |
 | [neverleftWTF/folotoy-ai-passport-re](https://github.com/neverleftWTF/folotoy-ai-passport-re) | AI Passport 逆向研究与分析工具集。 | 0 | MIT | 2026-08-23 |
 | [zlhdxb/ai-pass-port](https://github.com/zlhdxb/ai-pass-port) | 固件提取、NVS 修改与开发工具集。 | 0 | 未声明 | 2026-08-23 |
@@ -74,13 +74,13 @@
 | --- | --- | ---: | --- | --- |
 | [Vitaly2026/sloth-weather](https://github.com/Vitaly2026/sloth-weather) | 随天气变化心情的树懒天气站与手机相册。 | 2 | 未声明 | 2026-09-01 |
 | [yangyue1974/Niu-Weather](https://github.com/yangyue1974/Niu-Weather) | 带像素小牛的常亮天气仪表盘。 | 0 | MIT | 2026-08-25 |
-| [fanquanpp/FoloToy-calendar](https://github.com/fanquanpp/FoloToy-calendar) | 月历、倒计时、纪念日、配网和低功耗日历。 | 1 | MIT | 2026-10-13 |
+| [fanquanpp/FoloToy-calendar](https://github.com/fanquanpp/FoloToy-calendar) | 月历、倒计时、纪念日、配网和低功耗日历。 | 2 | MIT | 2026-10-13 |
 | [yueqiu281/TRAE_Stockscreen](https://github.com/yueqiu281/TRAE_Stockscreen) | A 股行情、交易时段刷新、时间校准与电量显示。 | 4 | 未声明 | 2026-08-26 |
 | [aris659/ai-passport-GO-WORK](https://github.com/aris659/ai-passport-GO-WORK) | 像素心、CRT 动效与 SoftAP 配网的番茄钟。 | 0 | MIT | 2026-08-25 |
 | [dafeng/ai-passport-timer](https://github.com/dafeng/ai-passport-timer) | 带提示音和闪屏提醒的离线倒计时器。 | 0 | MIT | 2026-08-30 |
 | [dafeng/ai-passport-breath](https://github.com/dafeng/ai-passport-breath) | 带呼吸动画、背光与柔和提示音的呼吸教练。 | 0 | MIT | 2026-08-30 |
 | [milkbaek022/baa-os](https://github.com/milkbaek022/baa-os) | 像素羊专注、补水与休息提醒伴侣。 | 0 | MIT | 2026-08-26 |
-| [ricroad/folotoy-pipboy-living-clock](https://github.com/ricroad/folotoy-pipboy-living-clock) | Pip-Boy 风格动态时钟与任务计时器。 | 13 | MIT | 2026-08-23 |
+| [ricroad/folotoy-pipboy-living-clock](https://github.com/ricroad/folotoy-pipboy-living-clock) | Pip-Boy 风格动态时钟与任务计时器。 | 14 | MIT | 2026-08-23 |
 | [elaemc0209/folotoy-ai-passport](https://github.com/elaemc0209/folotoy-ai-passport) | 课程表、GPA 助手与硬件测试页面。 | 0 | MIT | 2026-08-28 |
 | [arraylee/ai-passport-answer-book](https://github.com/arraylee/ai-passport-answer-book) | 离线答案之书固件。 | 0 | 未声明 | 2026-08-31 |
 | [arraylee/ai-passport-word-bear](https://github.com/arraylee/ai-passport-word-bear) | 离线单词学习与单词熊固件。 | 0 | 未声明 | 2026-08-31 |
@@ -98,7 +98,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 最近推送 / 状态 |
 | --- | --- | ---: | --- | --- |
-| [ericwubeta/ai-passport-games](https://github.com/ericwubeta/ai-passport-games) | 包含派对与单人复古游戏的口袋街机。 | 0 | MIT | 2026-08-29 |
+| [ericwubeta/ai-passport-games](https://github.com/ericwubeta/ai-passport-games) | 包含派对与单人复古游戏的口袋街机。 | 0 | GPL-3.0 | 2026-11-23 |
 | [YeatsLiao/ai-passport-doom](https://github.com/YeatsLiao/ai-passport-doom) | 运行在 AI Passport 上的 Doom 移植实验。 | 3 | 未声明 | 2026-10-06 |
 | [XFHurrican/TraeDino](https://github.com/XFHurrican/TraeDino) | Chrome 断网小恐龙复刻游戏。 | 0 | MIT | 2026-08-30 |
 | [HwzLoveDz/folo-ai-passport-werewolf](https://github.com/HwzLoveDz/folo-ai-passport-werewolf) | 支持七台设备联机的离线狼人杀。 | 3 | 未声明 | 2026-09-06 |
@@ -147,7 +147,7 @@
 | --- | --- | ---: | --- | --- |
 | [FoloToy/folotoy-doc](https://github.com/FoloToy/folotoy-doc) | FoloToy 全产品文档。 | 182 | 未声明 | 2026-11-15 |
 | [FoloToy/folotoy-bin](https://github.com/FoloToy/folotoy-bin) | FoloToy 产品固件与 Releases。 | 32 | 未声明 | 2025-08-13 |
-| [FoloToy/folotoy-server-self-hosting](https://github.com/FoloToy/folotoy-server-self-hosting) | FoloToy 社区服务自托管配置。 | 614 | GPL-3.0 | 2026-09-19 |
+| [FoloToy/folotoy-server-self-hosting](https://github.com/FoloToy/folotoy-server-self-hosting) | FoloToy 社区服务自托管配置。 | 615 | GPL-3.0 | 2026-09-19 |
 | [FoloToy/folotoy-toy-role-config-skill](https://github.com/FoloToy/folotoy-toy-role-config-skill) | 安全配置角色、人设、开场白与声音的 Agent Skill。 | 2 | MIT | 2026-08-14 |
 | [FoloToy/folotoy-openclaw-plugin](https://github.com/FoloToy/folotoy-openclaw-plugin) | FoloToy 的 OpenClaw 通道插件。 | 9 | 未声明 | 2026-04-28 |
 | [FoloToy/folotoy-hermes-agent-plugin](https://github.com/FoloToy/folotoy-hermes-agent-plugin) | 为 FoloToy 接入 Hermes Agent 能力。 | 1 | 未声明 | 2026-04-16 |
